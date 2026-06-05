@@ -14,7 +14,7 @@ Self-taught backend developer via Coursera (Meta Backend Developer Professional 
 
 🌌 **[Aurora](https://github.com/mersaidz/aurora-backend)** — a multi-source athletic data hub with provider-priority deduplication and lactate-driven training analysis.
 
-Django + PostgreSQL backend, 88% test coverage, GDPR-grade soft-delete with custom JWT rule, Fernet-encrypted OAuth tokens, IDOR-404 protected APIs. Designed for the platform I wish existed during my own training years.
+Django + PostgreSQL backend, with GDPR-grade soft-delete with custom JWT rule, Fernet-encrypted OAuth tokens, IDOR-404 protected APIs. Designed for the platform I wish existed during my own training years.
 
 #### Stack
 
