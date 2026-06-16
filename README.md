@@ -25,4 +25,4 @@ Service-layer architecture · security-aware defaults · forward-compatible data
 #### Reach me
 
 📧 mersaidz.dev@gmail.com  
-💼 LinkedIn — *launching soon*
+💼 LinkedIn — https://www.linkedin.com/in/mersaidz/
